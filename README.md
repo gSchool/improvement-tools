@@ -11,6 +11,7 @@ you can focus on improving your competencies.
 ### Reading List
 
 [Reading List](./reading_list.md)
+
 "If I have seen further it is by standing on the shoulders of Giants." - Sir Isaac Newton
 
 In technology, you are constantly using tools and techniques that were developed because people before you
